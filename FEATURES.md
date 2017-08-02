@@ -8,6 +8,7 @@ This is simply a brain stormed list, the contents of this list have been priorit
 ## User Facing Features
 
 - Log in, log out
+- Nice interface
 - Find & view "Places" and "Activities" around the country, and in the local area
 - "Places" and "Activities" have videos, pictures, comments, and a map location associated with them
 - Different **types** of user accounts, *student/tourist/businessperson/retiree*
