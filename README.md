@@ -4,10 +4,15 @@ Smart City Project
 Group *???*
 
 Members:
+
 Lee Sutton
+
 Maxwell Sawyer
+
 Emily Cowan
+
 George Hawkins
+
 Kyle Thacker
 
 
