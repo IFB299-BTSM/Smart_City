@@ -1,7 +1,6 @@
 
-![alt text](raw.githubusercontent.com/IFB299-BTSM/Smart_City_Core/master/Smart_City/media/logo/smartcity-wide-large.png)
+![# Smart City](raw.githubusercontent.com/IFB299-BTSM/Smart_City_Core/master/Smart_City/media/logo/smartcity-wide-large.png)
 
-# Smart City
 
 IFB299 Application Design and Development, Smart City
 
