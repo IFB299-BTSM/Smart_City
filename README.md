@@ -27,7 +27,7 @@ Please check FEATURES.md for a detailed list of the full functionality of the pr
 
 ## Frameworks
 
-Smart City is being developed using the **Django** Development Environment/Web Framework, with **Jira** as a tool for **SCRUM** management.
+Smart City is being developed using the **Django** Development Environment/Web Framework, with **Gitlab** as a tool for **SCRUM** management.
 
 
 ## Website
