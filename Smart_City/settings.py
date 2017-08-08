@@ -68,6 +68,21 @@ TEMPLATES = [
     },
 ]
 
+
+
+# Define template directory
+from os.path import abspath, basename, dirname, join, normpath
+
+DJANGO_ROOT = dirname(dirname(abspath(__file__)))
+
+SITE_ROOT = dirname(DJANGO_ROOT)
+
+TEMPLATE_DIRS = (
+    normpath(join(SITE_ROOT, 'templates')),
+)
+
+
+
 WSGI_APPLICATION = 'Smart_City.wsgi.application'
 
 
