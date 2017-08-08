@@ -81,6 +81,7 @@ TEMPLATE_DIRS = (
     normpath(join(SITE_ROOT, 'templates')),
 )
 
+#sdzxfhaszdlvchszdvk
 
 
 WSGI_APPLICATION = 'Smart_City.wsgi.application'
